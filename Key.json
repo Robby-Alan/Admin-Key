@@ -14,9 +14,7 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-10-21",
-      "hwid": [
-        "c03a042877a0ea61"
-      ]
+      "hwid": []
     }
   }
 }
