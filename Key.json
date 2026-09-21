@@ -7,12 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "DP-MWGEOT": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-10-21",
-      "hwid": []
-    }
-  }
+  "keys": {}
 }
