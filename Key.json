@@ -16,13 +16,6 @@
         "another_device_id_here"
       ]
     },
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": [
-        "ANY"
-      ]
-    },
     "DP-XCS8E1": {
       "status": "approved",
       "max_devices": 1,
