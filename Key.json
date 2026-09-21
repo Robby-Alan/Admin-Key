@@ -8,14 +8,6 @@
     "banned_devices": []
   },
   "keys": {
-    "DP-56WUX7": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-09-21",
-      "hwid": [
-        "c03a042877a0ea61"
-      ]
-    },
     "DP-KWHI1B": {
       "status": "approved",
       "max_devices": 2,
