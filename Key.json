@@ -7,12 +7,5 @@
     "maintenance": true,
     "banned_devices": []
   },
-  "keys": {
-    "DP-IU9HSX": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-10-21",
-      "hwid": []
-    }
-  }
+  "keys": {}
 }
