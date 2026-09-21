@@ -10,9 +10,11 @@
   "keys": {
     "DP-NVQT3M": {
       "status": "approved",
-      "max_devices": 2,
+      "max_devices": 1,
       "expiry_date": "2026-10-21",
-      "hwid": []
+      "hwid": [
+        "c03a042877a0ea61"
+      ]
     }
   }
 }
