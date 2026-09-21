@@ -10,7 +10,7 @@
   "keys": {
     "DP-ZFDG40": {
       "status": "approved",
-      "max_devices": 1,
+      "max_devices": 2,
       "expiry_date": "2026-09-21",
       "hwid": [
         "c03a042877a0ea61"
