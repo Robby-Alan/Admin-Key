@@ -8,12 +8,11 @@
     "banned_devices": []
   },
   "keys": {
-    "DP-VIP-101": {
+    "DP-UNIVERSAL": {
       "status": "approved",
-      "expiry_date": "2026-12-31",
+      "expiry_date": "2099-12-31",
       "hwid": [
-        "your_device_id_here",
-        "another_device_id_here"
+        "ANY"
       ]
     },
     "DP-XCS8E1": {
